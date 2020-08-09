@@ -64,6 +64,14 @@ code {
   width: auto;
 }
 
+.nav-name {
+  float: left;
+  margin-top: 0;
+  margin-left: 15px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
 .nav-links {
   margin: 0;
   padding: 0;

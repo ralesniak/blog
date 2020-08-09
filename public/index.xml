@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>Rachel Lesniak</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on Rachel Lesniak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I&amp;rsquo;m Rachel Lesniak, a data analyst specializing in the nexus of American transit data and reproducible analyses in R. I love talking about streamlining workflows and code review.
+Besides transit and R, I like local DC politics (#DCStatehood), biking, weight lifting, stationery, stamp collecting, and the music I listened to in high school (like everyone else).
+This website&amp;rsquo;s theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie. Additional CSS modifications made by me.</description>
+    </item>
     
     <item>
       <title>Capital Bikeshare Ridership during COVID-19</title>
@@ -19,15 +30,6 @@
       <guid>/2020/04/22/capital-bikeshare-ridership-during-covid-19/</guid>
       <description>The data world seems to be focused on making models using COVID-19 cases and deaths. However, since April 1st, I’ve been anxious to get the March 2020 Capital Bikeshare data to see how COVID-19 has affected the use of the District of Columbia’s public bikeshare system. I’ve come to terms with my emerging “foamer” status.
 Open data from Capital Bikeshare is available here. For this analysis, I compare March 2018, March 2019, and March 2020 data using trips that either start or end in the District of Columbia.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
   </channel>
