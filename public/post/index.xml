@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Posts on Rachel Lesniak</title>
-		<link>http://rachellesniak.com/post/</link>
-		<description>Recent content in Posts on rachellesniak.com</description>
-		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
-		<copyright>© Copyright notice | Vitae theme for Hugo | Icons made by Freepik</copyright>
-		<lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
-		
-		<atom:link href="http://rachellesniak.com/post/index.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>Capital Bikeshare Ridership during COVID-19</title>
-			<link>http://rachellesniak.com/post/2020-04-20-cabi-covid-pt1/</link>
-			<pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-			
-			<guid>http://rachellesniak.com/post/2020-04-20-cabi-covid-pt1/</guid>
-			<description>
-				
-				The data world seems to be focused on making models using COVID-19 cases and deaths. However, since April 1st, I’ve bee...
-				
-			</description>
-		</item>
-		
-	</channel>
+  <channel>
+    <title>Posts on A Hugo website</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Capital Bikeshare Ridership during COVID-19</title>
+      <link>/2020/04/22/capital-bikeshare-ridership-during-covid-19/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/22/capital-bikeshare-ridership-during-covid-19/</guid>
+      <description>The data world seems to be focused on making models using COVID-19 cases and deaths. However, since April 1st, I’ve been anxious to get the March 2020 Capital Bikeshare data to see how COVID-19 has affected the use of the District of Columbia’s public bikeshare system. I’ve come to terms with my emerging “foamer” status.
+Open data from Capital Bikeshare is available here. For this analysis, I compare March 2018, March 2019, and March 2020 data using trips that either start or end in the District of Columbia.</description>
+    </item>
+    
+  </channel>
 </rss>

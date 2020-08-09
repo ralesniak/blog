@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Categories on Rachel Lesniak</title>
-		<link>http://rachellesniak.com/categories/</link>
-		<description>Recent content in Categories on rachellesniak.com</description>
-		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
-		<copyright>© Copyright notice | Vitae theme for Hugo | Icons made by Freepik</copyright>
-		
-		<atom:link href="http://rachellesniak.com/categories/index.xml" rel="self" type="application/rss+xml" />
-		
-		
-	</channel>
+  <channel>
+    <title>Categories on A Hugo website</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
 </rss>
